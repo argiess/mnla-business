@@ -23,6 +23,9 @@
     text-decoration: underline;
 }
 
+.footer .div1{
+    text-align: left;
+}
 .footer .div1 p{
     display: flex;
     align-items: center;

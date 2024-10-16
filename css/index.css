@@ -162,6 +162,9 @@ body{
     padding: 1rem;
     border-radius: 5px;
 }
+.more:hover{
+    opacity: .85;
+}
 
 
 /* BANNER SECTION */
